@@ -1,0 +1,2 @@
+# clearthoughts
+wordpress site
